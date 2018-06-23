@@ -252,7 +252,7 @@ post_wordcount:
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
@@ -273,8 +273,8 @@ android_chrome_color: "#222"
 #   enabled: [true/false] - Replace with specific image
 #   image: url-of-image   - Images's url
 custom_logo:
-  enabled: false
-  image:
+  enabled: true
+  image: http://o6lqh5p0j.bkt.clouddn.com/330617-15040210001150%20%281%29.jpg
 
 # Code Highlight theme
 # Available value:
@@ -357,7 +357,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: a2abf626df04827464e701260655504a
 
 # Duoshuo ShortName
 #duoshuo_shortname:
